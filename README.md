@@ -1,7 +1,6 @@
 # fanpy_scripts
 Various steps for running fanpy calculations
 
-Certainly! Here's the rephrased version of your instructions along with examples, presented in non-coding format:
 
 ---
 
