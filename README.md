@@ -47,7 +47,7 @@ Various steps for running fanpy calculations
 ---
 
 Neccesary imports: 
-`import run_calc 
+`import run_calc \\
 import os`   
 
 
